@@ -1,0 +1,1 @@
+Andrew Ng's Coursera Machine Learning Class, Exercise 6 (Support Vector Machines, Python implementation).  Most of my time was spent exploring LIBSVM, which I found was not as convenient as scikit-learn for interacting with numpy.  
